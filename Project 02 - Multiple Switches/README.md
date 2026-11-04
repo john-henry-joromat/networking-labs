@@ -21,7 +21,7 @@ Using two Cisco 2960 switches, four end devices, and an inter-switch connection,
 
 ## Network Topology
 
-![Multiple Switches LAN Topology](topology.png)
+![Multiple Switches LAN Topology](topology-02.png)
 
 ### Network Devices
 
