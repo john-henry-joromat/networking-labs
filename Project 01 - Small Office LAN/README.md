@@ -145,11 +145,14 @@ Expected result: GigabitEthernet0/0 should display an `up/up` status after the p
 
 ### Testing Evidence
 
-Add screenshots of:
+PC1 Ping Test
+![PC1 Ping Test](screenshots/pc1-ping-test.png)
 
-1. Successful ping between PC1 and PC2.
-2. Successful ping between a workstation and R1.
-3. Router interface status using `show ip interface brief`.
+PC2 Ping Test
+![PC2 Ping Test](screenshots/pc2-ping-test.png)
+
+Router Interface Status
+![Router Interface Status](screenshots/router-interface-status.png)
 
 ## 9. Troubleshooting
 
@@ -179,7 +182,7 @@ Through this project, I gained practical experience in:
 
 | File | Description |
 |---|---|
-| `project-01.pkt` | Cisco Packet Tracer simulation file |
+| `project01_small_office_lan.pkt` | Cisco Packet Tracer simulation file |
 | `topology.png` | Network topology screenshot |
 | `README.md` | Project documentation |
 
