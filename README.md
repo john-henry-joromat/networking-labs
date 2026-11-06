@@ -20,7 +20,7 @@ This repository documents my hands-on networking projects using Cisco Packet Tra
 | 01 - Small Office LAN | Basic router, switch, and PC configuration | Completed |
 | 02 - Multiple Switches | Layer 2 switching and MAC address learning | Completed |
 | 03 - VLAN Configuration | VLAN creation, access ports, and trunking | Completed |
-| 04 - Inter-VLAN Routing | Router-on-a-stick | Upcoming |
+| 04 - Inter-VLAN Routing | Router-on-a-stick | In Progress |
 | 05 - DHCP Configuration | Automatic IP assignment | Upcoming |
 | 06 - Static Routing | Communication between multiple networks | Upcoming |
 
